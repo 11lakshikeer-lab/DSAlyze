@@ -1,11 +1,29 @@
+# DSAlyze – Data Structures and Algorithms Learning Platform
 
-  # SmartExam App Design
+DSAlyze is an interactive educational web application designed to simplify the understanding of core Data Structures and Algorithms concepts for students through structured modules and an intuitive interface.
 
-  This is a code bundle for SmartExam App Design. The original project is available at https://www.figma.com/design/wAP0NH6rw8BPYuFtLNVkoh/SmartExam-App-Design.
+## Features
+- Beginner-friendly DSA topic organization
+- Interactive learning interface
+- Clean responsive frontend
+- Structured concept navigation
+- Easy accessibility for students
 
-  ## Running the code
+## Technologies Used
+- React
+- TypeScript
+- HTML
+- CSS
+- Vite
 
-  Run `npm i` to install the dependencies.
+## Team Academic Project
+Developed collaboratively as part of academic coursework.
 
-  Run `npm run dev` to start the development server.
-  
+## My Contributions
+- Frontend development
+- Component arrangement
+- User interface refinement
+- Project testing and debugging
+
+## Objective
+To make DSA learning more accessible and visually understandable for students.
